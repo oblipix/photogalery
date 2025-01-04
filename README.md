@@ -2,6 +2,10 @@
 
 
 
+https://github.com/user-attachments/assets/0ff6bfc3-e081-46b4-b59d-b3a4a3cf4628
+
+
+
 
 
 
@@ -11,6 +15,16 @@
 A Galeria de Fotos é uma aplicação web interativa que permite aos usuários visualizar, pesquisar e filtrar imagens com base em palavras-chave. Desenvolvida com HTML, CSS, e JavaScript, esta galeria proporciona uma experiência visual simples, mas envolvente, com um layout grid responsivo e funcionalidades de busca em tempo real.
 
 A aplicação utiliza API pública para carregar as imagens, permitindo que os usuários explorem diferentes categorias de fotos diretamente no navegador.
+
+
+
+
+https://github.com/user-attachments/assets/bf275036-3841-45ba-bc62-de622d2044af
+
+
+
+
+
 
 #### Funcionalidades
 
